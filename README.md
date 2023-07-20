@@ -1,5 +1,8 @@
 # [simple-chat-fe](https://simple-chat-fe.vercel.app/)
 
+(reach out to me if there are server errors in the link or scroll down to run
+locally)
+
 This is a simple chat frontend application built using Vite, React, and other
 related dependencies. It allows users to send and receive messages in a
 chat-like interface.
@@ -11,8 +14,7 @@ steps below:
 
 ### Prerequisites
 
-Make sure you have Node.js and npm (Node Package Manager) installed on your
-machine.
+Make sure you have Node.js and yarn installed on your machine.
 
 ### Installation
 
@@ -50,7 +52,7 @@ in your browser.
 To build the application for production, run the following command:
 
 ```bash
-npm run build
+yarn run build
 ```
 
 This will create an optimized production build of the application in the `dist`
